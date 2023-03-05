@@ -1,0 +1,73 @@
+Microsoft Word is
+text process
+graphic editor
+presentation editor
+
+1
+How many keys do you need to spell to see the original character?
+Shift
+Backspace
+Delete
+
+2
+For help getting the keys Ctrl + X, a fragment of the text can ...
+Cut out
+Insert
+Find
+
+3
+Using the Ctrl+C key combination, a text fragment can be...
+Insert
+Copy
+highlight
+
+2
+A part of the text, the typing of which ends by pressing the Enter key, is called:
+Word
+Sentence
+Paragraph
+
+3
+Ширина й висота сторінки - це: 
+Поля
+Розміри сторінки
+Орієнтація сторінки
+
+2
+Перед розділовими знаками (такими як ;:.,!?) пропуск
+не ставиться
+ставиться
+залежно від тексту
+
+2
+Для введення тексту з нового абзацу слід натиснути клавішу 
+Enter
+Ctrl
+Shift
+
+1
+Натиснувши сполучення клавіш Сtrl+A виділиться: 
+слово
+рядок
+весь документ
+
+3
+За допомогою сполучення клавіш Ctrl+V фрагмент тексту можна...
+вирізати
+вставити
+копіювати
+
+2
+Які види орієнтації сторінки бувають?
+горизонтальна
+вертикальна
+книжкова
+
+3
+За допомогою клавіші Delete можна вилучити символ, який знаходиться....
+знизу під курсором
+ліворуч над курсором
+праворуч від курсора
+
+2
+
